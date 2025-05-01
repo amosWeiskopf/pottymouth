@@ -1,4 +1,4 @@
-# Credit to all the repos this was taken from:
+# Collected pottymouth words from the web; credit to all the repos this was taken from:
 https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 
 https://github.com/coffee-and-fun/google-profanity-words
