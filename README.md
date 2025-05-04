@@ -1,4 +1,8 @@
-# Collected pottymouth words from the web; credit to all the repos this was taken from:
+The following is a collected list of terms, from pottymouth to nightmarish words from the web;
+I thought this would be helpful for people who to keep their interwebs clean from all this darkness. 
+
+credit to all the repos this was taken from:
+
 https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
 
 https://github.com/coffee-and-fun/google-profanity-words
